@@ -91,3 +91,52 @@ This project includes SQL solutions for:
 ---
 
 ## Repository Structure
+├── Create_database_table_insert.sql
+├── Customer Loyalty Status.sql
+├── Customer Rewards.sql
+├── Most popular product.sql
+├── Payment.sql
+├── StockCheck.sql
+├── Total Sales by month.sql
+├── Top 5 Clients by Total Payments.sql
+├── Calculate Average Salary by Office.sql
+├── Calculate Total Salary Expense by Office.sql
+├── README.md
+
+
+
+---
+
+## Technologies Used
+
+- SQL
+- MySQL
+
+---
+
+## Learning Outcomes
+
+Through this project, you will learn:
+
+- Database schema design
+- Writing complex SQL queries
+- Data aggregation and reporting
+- Business intelligence reporting
+- Relational database concepts
+- Real-world e-commerce analytics
+
+---
+
+## Author
+
+**Helly Diyora**
+
+LinkedIn: www.linkedin.com/in/helly-diyora
+
+GitHub: https://github.com/hellydiyora
+
+---
+
+## License
+
+This project is intended for educational and portfolio purposes.
